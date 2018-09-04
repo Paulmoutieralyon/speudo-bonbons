@@ -1,0 +1,17 @@
+# Pseudo-code-algo
+
+Début
+
+Argent = (saisie)
+PrixBonbon = (saisie)
+bonbon = 0
+
+si Argent <= 0 ou PrixBonbon <= 0
+   Afficher 0
+
+tant que PrixBonbon <= Argent:
+   bonbon + = 1
+   PrixBonbon = PrixBonbon + PrixBonbon
+afficher (bonbon)
+
+Fin
