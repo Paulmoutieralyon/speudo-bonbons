@@ -14,4 +14,4 @@ tant que PrixBonbon <= Argent:
    PrixBonbon = PrixBonbon + PrixBonbon
 afficher (bonbon)
 
-Fin
+Fin du programme
